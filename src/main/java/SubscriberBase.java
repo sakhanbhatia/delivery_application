@@ -4,7 +4,6 @@
 * Description: An interface for subscriber.
 */
 
-package main;
 
 public interface SubscriberBase {
 

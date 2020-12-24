@@ -6,7 +6,6 @@
 */
 
 
-package main;
 
 public class Driver implements SubscriberBase {
   private String name;

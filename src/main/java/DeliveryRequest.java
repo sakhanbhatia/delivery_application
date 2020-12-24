@@ -4,7 +4,6 @@
 * Description: Delivery Request class stores information of a delivery request.
 */
 
-package main;
 
 public class DeliveryRequest {
 

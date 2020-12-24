@@ -4,7 +4,6 @@
 * Description: An interface for Publisher.
 */
 
-package main;
 
 public interface PublisherBase {
 

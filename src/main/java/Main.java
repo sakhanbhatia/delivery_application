@@ -4,7 +4,7 @@
 * Description: Main class to run the program.
 */
 
-package main;
+
 
 public class Main {
 
